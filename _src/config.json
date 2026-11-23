@@ -1,0 +1,41 @@
+{
+  "site_url": "https://blog.line-interior.co.kr",
+  "site_name": "라인 인테리어 저널",
+  "site_name_en": "LINE. JOURNAL",
+  "tagline": "공간이 말하는 당신만의 이야기",
+  "description": "부천 라인 인테리어가 전하는 현장 이야기와 공사 준비 가이드. 욕실, 주방, 중문, 드레스룸 공사 전에 알아두면 좋은 정보를 정리합니다.",
+  "keywords": "부천 인테리어, 라인 인테리어, 욕실 리모델링, 간살 중문, 아파트 인테리어, 인테리어 공사 순서",
+  "hero_image": "kitchen-main.jpg",
+  "hero_title": "공간이 말하는\n당신만의 이야기",
+  "hero_text": "직접 시공한 현장의 기록과\n공사 전에 알아두면 좋은 이야기를 전합니다.",
+  "business": {
+    "name": "라인 인테리어",
+    "name_en": "LINE INTERIOR",
+    "ceo": "박지희",
+    "biz_no": "296-24-02323",
+    "phone": "032-246-3155",
+    "phone_intl": "+82-32-246-3155",
+    "email": "dongjun4944@naver.com",
+    "street": "소사로126번길 7",
+    "locality": "부천시",
+    "region": "경기도",
+    "address_full": "경기도 부천시 소사로126번길 7",
+    "hours": ["평일 09:00 – 18:00"],
+    "hours_schema": [{"days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "09:00", "closes": "18:00"}],
+    "homepage": "https://www.line-interior.co.kr/",
+    "naver_blog": "https://blog.naver.com/line_interior_",
+    "services": ["간살 중문", "거실", "주방", "침실", "가벽 드레스룸", "욕실"]
+  },
+  "categories": [
+    {"slug": "cases", "name": "현장 이야기", "desc": "라인 인테리어가 직접 시공한 현장의 기록"},
+    {"slug": "guide", "name": "공사 준비 가이드", "desc": "공사 전에 알아두면 좋은 순서와 확인할 점"},
+    {"slug": "space", "name": "공간별 아이디어", "desc": "욕실·주방·중문·드레스룸 공간별 이야기"},
+    {"slug": "material", "name": "자재 이야기", "desc": "타일, 도어, 조명 등 자재를 고르는 기준"}
+  ],
+  "faq": [
+    {"q": "라인 인테리어는 어디에 있나요?", "a": "경기도 부천시 소사로126번길 7에 있습니다. 상담은 대표번호 032-246-3155로 문의해 주세요."},
+    {"q": "어떤 공사를 하나요?", "a": "간살 중문, 거실, 주방, 침실, 가벽 드레스룸, 욕실 등 주거 공간 인테리어를 시공합니다."},
+    {"q": "상담 가능한 시간은 언제인가요?", "a": "평일 09:00부터 18:00까지 상담 가능합니다."},
+    {"q": "부천 외 지역도 상담할 수 있나요?", "a": "전국 상담이 가능합니다. 현장 위치와 공사 범위를 알려주시면 진행 가능 여부를 안내해 드립니다."}
+  ]
+}
