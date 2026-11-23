@@ -34,3 +34,14 @@
 3. `python3 _src/build.py` 실행 → 결과물 전체를 GitHub에 올립니다.
 
 필요 패키지: `pip install markdown pyyaml pillow`
+
+## 지우면 안 되는 파일
+- `google….html` — 구글 서치콘솔 소유 확인 파일
+- `naver….html` — 네이버 서치어드바이저 소유 확인 파일
+
+build.py는 이 파일들을 건드리지 않습니다. 저장소에서 지우면 소유 확인이 풀리니 그대로 두세요.
+
+## 검색엔진 등록 현황 (2026-11-23)
+- 구글 서치콘솔: 소유 확인, sitemap.xml 제출
+- 네이버 서치어드바이저: 소유 확인, sitemap.xml·rss.xml 제출
+- RSS(`rss.xml`)에는 사진이 포함된 본문 전체가 들어갑니다 (네이버 권장 방식)
